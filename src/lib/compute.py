@@ -12,6 +12,7 @@ class Compute:
     def divide(self):
         pass
 
+    # adding support for multiply arithmetic
     def multiply(self):
         sum = 1
         for item in self.operands:
